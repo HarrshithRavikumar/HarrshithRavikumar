@@ -1,16 +1,18 @@
-## Hi there 👋
+# hi, i'm harrshith 👋
+CS student @ Georgia State University
 
-<!--
-**HarrshithRavikumar/HarrshithRavikumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+→ studying computer science, building things along the way  
+→ comfortable with **python**, **java**, and **html/css**  
+→ always looking for projects that solve real problems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### featured project
+🧥 **[wardrobe app](https://github.com/HarrshithRavikumar/Wardrobe-App)** — a personal wardrobe organizer built with python
+
+---
+
+### tech stack
+`python` `java` `html/css`
+
+📫 open to internships and collaborations
