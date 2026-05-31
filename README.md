@@ -1,8 +1,6 @@
 # hi, i'm harrshith 👋
-
 CS student @ Georgia State University — building full-stack apps and 
 exploring AI/ML systems.
-
 → **Python · Java · JavaScript · React · FastAPI · SQL**  
 → comfortable with Supabase, Vite, REST APIs, and AI-assisted dev  
 → deployed on Vercel + Render  
@@ -19,6 +17,10 @@ Built with FastAPI, TF-IDF retrieval, cosine similarity, Claude API · [live dem
 🧥 **[Wardrobe App](https://github.com/HarrshithRavikumar/Wardrobe-App)**  
 Personal clothing inventory with auth, check-in/out, and search.  
 Built with React 19, Supabase (Postgres + Auth), RLS · [live demo](https://wardrobe-app-pied.vercel.app)
+
+🏆 **[World Cup 2026 Predictor](https://github.com/HarrshithRavikumar/world-cup-2026-predictor)**  
+Monte Carlo simulation engine predicting WC2026 outcomes using Elo ratings trained on 5,000+ matches. Includes Polymarket odds comparison.  
+Built with Python, Streamlit, Matplotlib · [live app](https://world-cup-2026-predictor.streamlit.app)
 
 ---
 
