@@ -1,4 +1,4 @@
-# Hi, i'm harrshith 👋
+# Hi, i'm Harrshith 👋
 CS student @ Georgia State University — building full-stack apps and 
 exploring AI/ML systems.
 → **Python · Java · JavaScript · React · FastAPI · SQL**  
