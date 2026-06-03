@@ -24,4 +24,4 @@ Built with Python, Streamlit, Matplotlib · [live app](https://world-cup-2026-pr
 
 ---
 
-📫 open to internships and collaborations
+📫 open to internships and collaborations.
