@@ -8,7 +8,7 @@ exploring AI/ML systems.
 
 ---
 
-### projects
+### Projects
 
 🔍 **[AI Study Assistant](https://github.com/HarrshithRavikumar/study-assistant)**  
 Upload your notes, ask questions — answers grounded in what you actually studied.  
