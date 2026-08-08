@@ -12,6 +12,5 @@ Projects
 
 🏆 World Cup 2026 Predictor Monte Carlo simulation engine predicting WC2026 outcomes using Elo ratings trained on 7,095 historical matches. Includes Polymarket odds comparison. Built with Python, Streamlit, Matplotlib · live app
 
-🧥 Wardrobe App Personal clothing inventory with auth, check-in/out, and search. Built with React 19, Supabase (Postgres + Auth), RLS · live demo
 
 📫 open to internships and collaborations.
