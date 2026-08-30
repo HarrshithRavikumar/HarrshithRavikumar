@@ -1,5 +1,5 @@
 Hi, i'm Harrshith 👋
-
+ 
 CS student @ Georgia State University — building full-stack apps and exploring AI/ML systems.
 
 → Python · Java · JavaScript · React · FastAPI · SQL → comfortable with Supabase, Vite, REST APIs, and AI-assisted dev → deployed on Vercel + Render → always building things that solve real problems
